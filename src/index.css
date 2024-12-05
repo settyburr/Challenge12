@@ -12,6 +12,27 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+.active-link {
+  font-weight: bold;
+  color: #007bff;
+}
+.project {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+}
+
+.project img {
+  width: 100%;
+  height: auto;
+}
+
+.project a {
+  color: #007bff;
+  text-decoration: none;
+}
+
 
 a {
   font-weight: 500;
